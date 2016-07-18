@@ -4,7 +4,7 @@ The Museum of Good Code (MOGC) is the world's only digital museum dedicated to t
 
 This free resource empowers developers to learn from the real-world mistakes of others and improve code quality by not making those same errors themselves.
 
-#### See the [Museum-of-Bad-Code](https://github.com/daniellmb/Museum-of-Bad-Code) for some anti-patterns to avoid!
+#### See the [Museum of Bad Code](https://github.com/daniellmb/Museum-of-Bad-Code) for some anti-patterns to avoid!
 
 ## [Submit Code](../../issues/new) for inclusion in the museum collection.
 
