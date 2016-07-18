@@ -1,4 +1,4 @@
-# Museum of Bad Code [{❤️}]
+# Museum of Good Code [{❤️}]
 
 The Museum of Good Code (MOGC) is the world's only digital museum dedicated to the collection, preservation, exhibition of good code in all its forms. The mission of the MOBC is to give visibility to uncommonly great code tricks and tips.
 
