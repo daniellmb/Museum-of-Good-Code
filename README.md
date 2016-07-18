@@ -14,4 +14,4 @@ This free resource empowers developers to learn from the real-world mistakes of 
 - Use a succinct title and isolated code snippet.
 - Bonus points for including refactoring improvements.
 
-Follow [@museumofgoodcode](https://twitter.com/museumofgoodcode) on Twitter for updates as new exhibits added to the growing collection.
+Follow [@museumofgodcode](https://twitter.com/museumofgodcode) on Twitter for updates as new exhibits added to the growing collection.
