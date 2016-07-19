@@ -6,12 +6,11 @@ This free resource empowers developers to learn from the real-world mistakes of 
 
 #### See the [Museum of Bad Code](https://github.com/daniellmb/Museum-of-Bad-Code) for some anti-patterns to avoid!
 
-## [Submit Code](../../issues/new) for inclusion in the museum collection.
+## [Submit Code](../../issues/new) for inclusion in this museum collection.
 
 ### Guidelines
 
 - [Ensure the code has not been submitted already](../../issues?q=is%3Aissue).
 - Use a succinct title and isolated code snippet.
-- Bonus points for including refactoring improvements.
 
 Follow [@museumofgodcode](https://twitter.com/museumofgodcode) on Twitter for updates as new exhibits added to the growing collection.
